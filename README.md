@@ -1,20 +1,19 @@
-# TÍTULO DO PROJETO
+# Aplicação web para geração de preços de recargas de veículos elétricos (VE)
 
-`CURSO`
+`CURSO` Tecnologia em Sistemas para Internet
 
-`DISCIPLINA`
+`DISCIPLINA`Projetos: Aplicação Web
 
-`SEMESTRE`
+`SEMESTRE`1/2021
 
 ## Integrantes
-
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+CLauzioney Francisco dos Santos
+Dione Pereira Santos
+Iara Camargo de Oliveira
+Lucas Eugênio Silva
 
 ## Professor
-
-- Mestre Yoda
-
+Fabiano Costa Teixeira
 # Documentação
 
 <ol>
