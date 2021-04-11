@@ -9,7 +9,7 @@ Ainda que seja tímida a circulação de carros elétricos no Brasil é importan
 
 Um dos fatores que ainda corroboram para pequena adesão de usuários a carros elétricos é a falta de infraestrutura e os preços elevados dos veículos.
 
-Há também pouca informação e ferramentas de aplicação web que auxilem os gestores de eletropostos no cálculo de preços de recargas das baterias de lítio.
+Há também pouca informação e ferramentas de aplicação web que auxilem os gestores de eletropostos no cálculo dos preços de recargas das baterias de lítio.
 
 Frente a isto surge a necessidade do desenvolvimento de dispositivos que calculem os preços do carregamento de baterias dos VEs, na perspectiva de contribuir com os gestores de eletropostos e consumidores finais. 
 
