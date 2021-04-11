@@ -1,7 +1,7 @@
 # Introdução
-No Brasil a primeira instalação de posto de abastecimento elétrico foi no Rio de Janeiro em 2009, através de parceria entre Nissan e Petrobras (Estadão,2009).
+No Brasil a primeira instalação de posto de abastecimento elétrico foi no Rio de Janeiro em 2009, através de parceria entre Nissan e Petrobras (Estadão, 2009).
 
-No estado de São Paulo a primeira instalação ocorrreu no ano de 2012, no Instituto de Eletrotécnica e Energia (IEE) da Universidade de São Paulo (USP). (Feldmann,2013).
+No estado de São Paulo a primeira instalação ocorrreu no ano de 2012, no Instituto de Eletrotécnica e Energia (IEE) da Universidade de São Paulo (USP). (Feldmann, 2013).
 
 Segundo a EDP Smart, atualmente existe 50 pontos de carregamento ativos no país, a startup estima que até o final de 2022 irá triplicar os pontos de carregamento.
 
